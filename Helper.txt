@@ -3,10 +3,11 @@ Commands:
 !afk
   Sends an Predefned AFK message
 !help
-  Shows a Box, Linking to This Document
+  Explains how to get Here
 !star
   Explains What nether Drops Do / Can be used for
-  
+!list
+  Provides an Link to This!
   
 Helpfull Things:
   Types Numbers for you, Eg 1t turns Into 1000000000000
