@@ -1,4 +1,4 @@
-# MCscript
+ MCscript
 Commands:
 !afk
   Sends an Predefned AFK message
